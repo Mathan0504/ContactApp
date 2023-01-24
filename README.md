@@ -1,8 +1,4 @@
-# crud_sqlite_joes
+# Contacts App
 
-Flutter CRUD Operation With SQLite
+By Mathan Sivasupramaniyam
 
-Youtube Video Complete Code Demo:
-https://youtu.be/WC8Ue3PPk70
-
-For More Visit https://www.tutorjoes.in/
